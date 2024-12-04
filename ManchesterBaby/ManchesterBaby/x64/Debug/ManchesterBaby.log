@@ -1,0 +1,2 @@
+﻿Manchester.obj : error LNK2005: main 已经在 Assembler.obj 中定义
+C:\Users\96069\source\repos\ManchesterBaby\x64\Debug\ManchesterBaby.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

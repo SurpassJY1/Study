@@ -1,0 +1,3 @@
+﻿  Stack.c
+C:\Users\96069\source\repos\Stack\Stack\Stack.c(63,3): warning C4047: “return”:“int”与“void *”的间接级别不同
+  Stack.vcxproj -> C:\Users\96069\source\repos\Stack\Stack\x64\Debug\Stack.exe

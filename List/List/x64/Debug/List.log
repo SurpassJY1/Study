@@ -1,0 +1,7 @@
+﻿  List.c
+C:\Users\96069\source\repos\List\List\List.c(19,5): warning C4028: 形参 1 与声明不同
+C:\Users\96069\source\repos\List\List\List.c(19,5): warning C4273: “remove”: dll 链接不一致
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(369,26):
+      参见“remove”的前一个定义
+  
+  List.vcxproj -> C:\Users\96069\source\repos\List\x64\Debug\List.exe

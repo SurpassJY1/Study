@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\96069\\source\\repos\\projectpractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F205A174-1DFA-4434-AD7C-452B85D8FCE1}|ProjectPractice\\ProjectPractice.vcxproj|C:\\Users\\96069\\source\\repos\\projectpractice\\ProjectPractice\\Pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F205A174-1DFA-4434-AD7C-452B85D8FCE1}|ProjectPractice\\ProjectPractice.vcxproj|solutionrelative:ProjectPractice\\Pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F205A174-1DFA-4434-AD7C-452B85D8FCE1}|ProjectPractice\\ProjectPractice.vcxproj|C:\\Users\\96069\\source\\repos\\projectpractice\\ProjectPractice\\practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F205A174-1DFA-4434-AD7C-452B85D8FCE1}|ProjectPractice\\ProjectPractice.vcxproj|solutionrelative:ProjectPractice\\practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "practice.c",
+              "DocumentMoniker": "C:\\Users\\96069\\source\\repos\\projectpractice\\ProjectPractice\\practice.c",
+              "RelativeDocumentMoniker": "ProjectPractice\\practice.c",
+              "ToolTip": "C:\\Users\\96069\\source\\repos\\projectpractice\\ProjectPractice\\practice.c",
+              "RelativeToolTip": "ProjectPractice\\practice.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-27T10:46:26.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pointer.c",
+              "DocumentMoniker": "C:\\Users\\96069\\source\\repos\\projectpractice\\ProjectPractice\\Pointer.c",
+              "RelativeDocumentMoniker": "ProjectPractice\\Pointer.c",
+              "ToolTip": "C:\\Users\\96069\\source\\repos\\projectpractice\\ProjectPractice\\Pointer.c",
+              "RelativeToolTip": "ProjectPractice\\Pointer.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-27T10:23:32.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

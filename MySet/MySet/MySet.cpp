@@ -14,7 +14,7 @@ class MySet {
 	public:
 		Node(T data) :data(data), next(nullptr), prev(nullptr) {}
 		T setData(T data) {
-			data = data;
+			this->data = data;
 			return data;
 		}
 		T getData() {
@@ -63,8 +63,8 @@ public:
 			return nullptr;
 		}
 		Node* curr = getHead();
-		while (curr!=nullptr) {
-			if (curr->getData()==key)
+		while (curr != nullptr) {
+			if (curr->getData() == key)
 			{
 				return curr;
 			}
@@ -164,10 +164,10 @@ public:
 		}
 	}
 	//This method is used to find intersection of set A and B and assign it to C
-	static void intersection(MySet A,MySet B,MySet& C)
+	static void intersection(MySet A, MySet B, MySet& C)
 	{
 		Node* curr = A.getHead();
-		while (curr!=nullptr)
+		while (curr != nullptr)
 		{
 			//if we found the same element in set B, we can make sure curr is both in A and B
 			if (B.find(curr->getData()))
@@ -178,7 +178,7 @@ public:
 		}
 	}
 	//This method is used to find the union and assign it to set C
-	static void findUnion(MySet A,MySet B,MySet& C)
+	static void findUnion(MySet A, MySet B, MySet& C)
 	{
 		Node* curr = A.getHead();
 		while (curr != nullptr)
@@ -208,47 +208,67 @@ public:
 		}
 	}
 	//This method is used to find the k lagrest elements
-	 void topK(int k)
+	void topK(int k)
 	{
-	//using a container to store elements
-		 vector<T> elements;
-		 Node* curr = getHead();
-		 //adding all elements into the vector
-		 while (curr!=nullptr)
-		 {
-			 elements.push_back(curr->getData());
-			 curr = curr->getNext();
-		 }
-		 //sort the vector
-		 sort(elements.begin(),elements.end(),greater<T>());
-		 for (int i = 0; i <elements.size() && i<=k; i++)
-		 {
-			 cout << "The " << (i+1)<< " element " << elements[i] << endl;
-		 }
+		Node* curr = getHead();
+		int count = 0;
+		while (curr != nullptr) {
+			count++;
+			curr = curr->getNext();
+		}
+		//get the num of elements
+		// compare the k and num of elements
+		if (k>count)
+		{
+			cout << "k is greater than the number of elements in the set" << endl;
+			return;
+		}
+		//copy the set to a new set
+		MySet copied;
+		findUnion(copied, *this, copied);
+		curr = copied.getHead();
+		//traverse the elements times
+		for (size_t i = 0; i < count; i++)
+		{
+			//refresh the curr
+			curr = copied.getHead();
+			//traverse through the set to get the bigest value on the leftest
+			while (curr->getNext() != nullptr)
+			{
+				//compare value of curr and its next
+				if (curr->getData() < curr->getNext()->getData())
+				{
+					//exchange the data
+					T data = curr->getData();
+					curr->setData(curr->getNext()->getData());
+					curr->getNext()->setData(data);
+				}
+				//refresh curr
+				curr = curr->getNext();
+			}
+		}
+		Node* p = copied.getHead();
+		//print the k largest elements
+		for (int i=0;i<=k&&i<=count;i++)
+		{
+			
+			cout  <<(i+1)<< " largest element is" << p->getData() << endl;
+			p = p->getNext();
+		}
 	}
-	
 };
 
 
-int main()
-{
-	MySet<int> set;
-	set.insert(1);
-	set.insert(2);
-	set.insert(3);
-	set.insert(3);
-	set.insert(3);
-	MySet<int> set2;
-	MySet<int> set3 ;
-	set2.insert(1);
-	set2.insert(2);
-	MySet<int>::intersection(set, set2, set3);
-	set3.traverse();
-	cout << endl;
-	set.insert(5);
-	MySet<int>setC;
-	MySet<int>::setDiff(set,set2,setC);
-	setC.traverse();
-	set.topK(1);
-	return 0;
-}
+	int main()
+	{
+		MySet<int> set;
+		set.insert(1);
+		set.insert(2);
+		set.insert(3);
+		set.insert(4);
+		set.insert(5);
+		set.insert(6);
+		set.insert(7);
+		set.topK(2);
+		return 0;
+	}

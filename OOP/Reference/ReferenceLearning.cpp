@@ -3,7 +3,7 @@ using namespace std;
 int& referReturn();
 void show(const int& val);
 int main()
-{
+{ 
 	/*
 	格式：
 	数据类型 &别名=原名;

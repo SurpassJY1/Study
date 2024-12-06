@@ -1,2 +1,3 @@
 ﻿  MySet.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\MySet\MySet\MySet.cpp(163,1): warning C4715: “MySet<int>::remove”: 不是所有的控件路径都返回值
   MySet.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\MySet\x64\Debug\MySet.exe

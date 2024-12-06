@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{6F636D22-EC18-4217-B3ED-0C0BBAC29636}|Assembler\\Assembler.vcxproj|solutionrelative:Assembler\\Assembler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\96069\\source\\repos\\Assembler\\Assembler\\BabyTest1-Assembler.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assembler\\BabyTest1-Assembler.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\96069\\source\\repos\\Assembler\\Assembler\\opcode.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assembler\\opcode.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\96069\\source\\repos\\Assembler\\Assembler\\BabyTest1-Assembler.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assembler\\BabyTest1-Assembler.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +26,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "opcode.txt",
               "DocumentMoniker": "C:\\Users\\96069\\source\\repos\\Assembler\\Assembler\\opcode.txt",
               "RelativeDocumentMoniker": "Assembler\\opcode.txt",
               "ToolTip": "C:\\Users\\96069\\source\\repos\\Assembler\\Assembler\\opcode.txt",
               "RelativeToolTip": "Assembler\\opcode.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-12-03T08:10:42.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BabyTest1-Assembler.txt",
               "DocumentMoniker": "C:\\Users\\96069\\source\\repos\\Assembler\\Assembler\\BabyTest1-Assembler.txt",
               "RelativeDocumentMoniker": "Assembler\\BabyTest1-Assembler.txt",
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Assembler\\Assembler.cpp",
               "ToolTip": "C:\\Users\\96069\\source\\repos\\Assembler\\Assembler\\Assembler.cpp",
               "RelativeToolTip": "Assembler\\Assembler.cpp",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAIwJ0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAIwKYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-02T15:55:29.642Z",
               "EditorCaption": ""

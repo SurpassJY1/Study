@@ -55,7 +55,7 @@ int main()
 	 {
 		 cout << arr[i];
 	 }
-	 delete[]arr;//释放整个数组要在前面加个中括号不然就只释放了第一个元素
+	 delete[]arr;//释放整个数组要在前面加个中括号
 	 
 	 return 0;
 }

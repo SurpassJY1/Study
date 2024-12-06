@@ -259,38 +259,30 @@ public:
 
 	int main()
 	{
-		MySet<int> set;
-		set.insert(1);
-		set.insert(2);
-		set.insert(3);
-		cout << "I inserted some element already in the set to check if the insert works well:"<<endl;
-		set.insert(3);
-		set.insert(3);
-		cout << "-----------------------------------------------------------------------------" << endl;
-		MySet<int> set2;
-		MySet<int> set3;
-		set2.insert(1);
+		MySet<int>set1;
+		set1.insert(1);
+		set1.insert(2);
+		set1.insert(3);
+		set1.insert(3);
+		set1.remove(3);
+		set1.remove(4);
+		cout << "--------------" << endl;
+		set1.insert(3);
+		MySet<int>set2;
 		set2.insert(2);
-		cout << "The element of set2 is 1 and 2,the wanted element of set3 is 1 2" << endl;
-		MySet<int>::intersection(set, set2, set3);
+		set2.insert(3);
+		set2.insert(4);
+		MySet<int>set3;
+		MySet<int>::intersection(set1,set2,set3);
+		cout << "The intersection of set1 and set2" << endl;
 		set3.traverse();
-		cout <<"-----------------------------------------------------------------------------" << endl;
-		set.insert(5);
-		MySet<int>setC;
-		MySet<int>::setDiff(set, set2, setC);
-		cout << "The element in set is 1 2 3 5, The element in set2 is 1 2, the wanted result in setC is 3 5" << endl;
-		setC.traverse();
-		cout << "------------------------------------------------------------------------------" << endl;
-		cout << "The element in set is 1 2 3 5,the wanted result is k is greater than the number of elements and 5 3 2 1 " << endl;
-		set.topK(5);
-		set.topK(4);
-		cout << "check remove,I input a element does not exist on purpose" << endl;
-		set.remove(6);
-		set.remove(1);
-		set.traverse();
-		cout << "------------------------------------------------------------------------------" << endl;
-		cout << "check find, I input a element is not in the set on purpose" << endl;
-		set.find(6);
-		cout << set.find(2)->getData() << endl;
+		cout << "the top k value of set1 are" << endl;
+		set1.topK(5);
+		set1.topK(2);
+		if (set1.find(4) == nullptr) {
+			cout << "not found" << endl;
+		}
+		cout<<set1.find(2)->getData()<<endl;
+		system("PAUSE");
 		return 0;
 	}

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\96069\\source\\repos\\DEque\\",
+  "WorkspaceRootPath": "C:\\Users\\96069\\source\\repos\\SurpassJY1\\Study\\DEque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBC06F8B-6CC2-4178-B1A5-7D8F13F9A80B}|DEque\\DEque.vcxproj|C:\\Users\\96069\\source\\repos\\DEque\\DEque\\CircleArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CBC06F8B-6CC2-4178-B1A5-7D8F13F9A80B}|DEque\\DEque.vcxproj|C:\\Users\\96069\\source\\repos\\SurpassJY1\\Study\\DEque\\DEque\\CircleArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CBC06F8B-6CC2-4178-B1A5-7D8F13F9A80B}|DEque\\DEque.vcxproj|solutionrelative:DEque\\CircleArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CircleArray.c",
-              "DocumentMoniker": "C:\\Users\\96069\\source\\repos\\DEque\\DEque\\CircleArray.c",
+              "DocumentMoniker": "C:\\Users\\96069\\source\\repos\\SurpassJY1\\Study\\DEque\\DEque\\CircleArray.c",
               "RelativeDocumentMoniker": "DEque\\CircleArray.c",
-              "ToolTip": "C:\\Users\\96069\\source\\repos\\DEque\\DEque\\CircleArray.c",
+              "ToolTip": "C:\\Users\\96069\\source\\repos\\SurpassJY1\\Study\\DEque\\DEque\\CircleArray.c",
               "RelativeToolTip": "DEque\\CircleArray.c",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-30T07:20:27.187Z",
               "EditorCaption": ""

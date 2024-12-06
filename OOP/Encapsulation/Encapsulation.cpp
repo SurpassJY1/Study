@@ -83,7 +83,7 @@ void checkIfPointOnCircle(Point point,Circle circle) {
 }
 int main()
 {
-	Point point(1,0);//in the circle
+	Point point(1,0);//on the circle
 	Circle circle(0,0, 1);
 	Point point2(2, 0);//outside the circle
 	Point point3(0, 0);//inside the circle

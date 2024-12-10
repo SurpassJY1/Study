@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\96069\source\repos\LianDianQi\FileName.cpp(31,9): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\96069\source\repos\LianDianQi\FileName.cpp(21,8): warning C4101: “cursor”: 未引用的局部变量
+C:\Users\96069\source\repos\LianDianQi\FileName.cpp(14,1): warning C4172: 返回局部变量的地址或临时 : pos
+  LianDianQi.vcxproj -> C:\Users\96069\source\repos\LianDianQi\x64\Debug\LianDianQi.exe

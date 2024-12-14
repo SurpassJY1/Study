@@ -1,0 +1,3 @@
+﻿  ConstKnowledge.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\OOP\ConstKnowledge\ConstKnowledge.cpp(31,15): warning C4269: “p”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+  ConstKnowledge.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\OOP\ConstKnowledge\x64\Debug\ConstKnowledge.exe

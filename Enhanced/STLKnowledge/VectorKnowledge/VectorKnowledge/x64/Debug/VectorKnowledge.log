@@ -1,0 +1,32 @@
+﻿  VectorBaseKnowledge.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(114,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(114,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(114,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(114,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(114,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(180,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(180,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(180,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(180,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(180,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(204,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(204,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(204,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(204,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(204,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(209,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(209,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(209,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(209,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(209,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(229,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(229,15): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(229,15): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(229,15): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(229,15): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(258,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(258,15): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(258,15): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(258,15): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\VectorBaseKnowledge.cpp(258,15): warning C4267:         ]
+  VectorKnowledge.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\VectorKnowledge\x64\Debug\VectorKnowledge.exe

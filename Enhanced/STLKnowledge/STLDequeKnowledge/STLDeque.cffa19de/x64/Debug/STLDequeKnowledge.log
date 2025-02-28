@@ -1,0 +1,27 @@
+﻿  Deque.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(64,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(64,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(64,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(64,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(64,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(80,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(80,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(80,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(80,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(80,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(97,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(97,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(97,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(97,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(97,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(121,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(121,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(121,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(121,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(121,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(126,17): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(126,17): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(126,17): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(126,17): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\Deque.cpp(126,17): warning C4267:         ]
+  STLDequeKnowledge.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLDequeKnowledge\x64\Debug\STLDequeKnowledge.exe

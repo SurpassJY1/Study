@@ -1,0 +1,3 @@
+﻿  GiveScore.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\GiveScore\GiveScore.cpp(62,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  GiveScore.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\GiveScore\x64\Debug\GiveScore.exe

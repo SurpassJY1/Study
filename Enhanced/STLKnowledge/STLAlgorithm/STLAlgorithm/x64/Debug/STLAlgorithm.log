@@ -1,0 +1,33 @@
+﻿  Algotithm.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(37,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(37,15): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(37,15): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(37,15): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(37,15): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(65,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(65,15): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(65,15): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(65,15): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(65,15): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(83,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(83,15): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(83,15): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(83,15): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(83,15): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(137,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(137,15): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(137,15): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(137,15): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(137,15): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(161,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(222,9): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(244,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(256,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(256,15): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(256,15): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(256,15): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(256,15): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(258,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(265,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\Algotithm.cpp(274,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  STLAlgorithm.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\x64\Debug\STLAlgorithm.exe

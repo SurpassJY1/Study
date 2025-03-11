@@ -1,0 +1,7 @@
+﻿  Numeric.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLNumeric\Numeric.cpp(16,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLNumeric\Numeric.cpp(16,15): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLNumeric\Numeric.cpp(16,15): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLNumeric\Numeric.cpp(16,15): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLNumeric\Numeric.cpp(16,15): warning C4267:         ]
+  STLNumeric.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLNumeric\x64\Debug\STLNumeric.exe

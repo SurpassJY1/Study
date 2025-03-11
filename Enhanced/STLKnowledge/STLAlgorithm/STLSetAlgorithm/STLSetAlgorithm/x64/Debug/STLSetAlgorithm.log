@@ -1,0 +1,32 @@
+﻿  SetAlgorithm.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(32,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(32,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(32,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(32,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(32,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(33,17): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(33,17): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(33,17): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(33,17): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(33,17): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(51,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(51,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(51,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(51,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(51,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(52,17): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(52,17): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(52,17): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(52,17): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(52,17): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(69,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(69,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(69,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(69,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(69,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(70,17): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(70,17): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(70,17): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(70,17): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\SetAlgorithm.cpp(70,17): warning C4267:         ]
+  STLSetAlgorithm.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLAlgorithm\STLSetAlgorithm\x64\Debug\STLSetAlgorithm.exe

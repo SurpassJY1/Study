@@ -1,0 +1,8 @@
+﻿  Array.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Arrary\Array.cpp(124,18): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Arrary\Array.cpp(124,18): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Arrary\Array.cpp(124,18): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Arrary\Array.cpp(124,18): warning C4267:             T=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Arrary\Array.cpp(124,18): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Arrary\Array.cpp(124,15): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Arrary.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Arrary\x64\Debug\Arrary.exe

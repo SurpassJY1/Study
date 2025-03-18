@@ -1,0 +1,12 @@
+﻿  LinkedListStack.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\LinkedListStack\LinkedListStack.cpp(98,18): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+      C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\LinkedListStack\LinkedListStack.cpp(98,18):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\LinkedListStack\LinkedListStack.cpp(136,19):
+          查看对正在编译的 类 模板 实例化“VectorStack<int>”的引用
+          C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\LinkedListStack\LinkedListStack.cpp(96,6):
+          在编译 类 模板 成员函数“int VectorStack<int>::getSize(void)”时
+              C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\LinkedListStack\LinkedListStack.cpp(142,24):
+              请参阅 "main" 中对 "VectorStack<int>::getSize" 的第一个引用
+  
+  LinkedListStack.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\LinkedListStack\x64\Debug\LinkedListStack.exe

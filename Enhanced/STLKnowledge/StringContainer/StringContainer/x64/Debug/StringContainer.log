@@ -1,0 +1,6 @@
+﻿  StringContainer.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\StringContainer\StringContainer.cpp(90,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\StringContainer\StringContainer.cpp(91,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\StringContainer\StringContainer.cpp(94,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\StringContainer\StringContainer.cpp(95,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  StringContainer.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\StringContainer\x64\Debug\StringContainer.exe

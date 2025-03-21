@@ -1,0 +1,17 @@
+﻿  STLSort.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(52,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(52,15): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(52,15): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(52,15): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(52,15): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(67,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(67,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(67,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(67,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(67,16): warning C4267:         ]
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(71,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(71,16): warning C4267:         with
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(71,16): warning C4267:         [
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(71,16): warning C4267:             _Ty=int
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\STLSort.cpp(71,16): warning C4267:         ]
+  STLSortAlgorithm.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\STLSortAlgorithm\x64\Debug\STLSortAlgorithm.exe

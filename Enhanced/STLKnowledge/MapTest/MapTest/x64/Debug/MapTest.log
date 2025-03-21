@@ -1,0 +1,8 @@
+﻿  MapTest.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\MapTest\MapTest.cpp(38,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\MapTest\MapTest.cpp(41,25): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\MapTest\MapTest.cpp(47,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\MapTest\MapTest.cpp(48,26): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\MapTest\MapTest.cpp(52,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\MapTest\MapTest.cpp(54,23): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  MapTest.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\STLKnowledge\MapTest\x64\Debug\MapTest.exe

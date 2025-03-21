@@ -133,7 +133,7 @@ void test06()
 	//在使用transform函数前要在目标容器中预留空间
 	v2.resize(v.size());
 	//被拷贝容器的起始迭代器和终止迭代器，目标容器起始迭代器，逻辑仿函数
-	transform(v.begin(), v.end(), v2.begin(), logical_not<>());
+	transform(v.begin(), v.end(), v2.begin(), logical_not<bool>());
 	for (vector<bool>::const_iterator it = v2.begin();it != v2.end();it++)
 	{
 		cout << *it << " ";

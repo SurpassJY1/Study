@@ -1,0 +1,6 @@
+﻿  Heap.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Heap\Heap.cpp(65,25): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Heap\Heap.cpp(82,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Heap\Heap.cpp(118,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Heap\Heap.cpp(133,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Heap.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Heap\x64\Debug\Heap.exe

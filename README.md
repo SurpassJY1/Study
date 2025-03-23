@@ -9,3 +9,6 @@ As a CS student, I am not smart. Thus I should put more effort on studing. To pr
 * Do more algorithm questions to get better score on my PAT test
 
 I will update the process of my study on this document.
+---
+zsh:1: command not found: -l
+23th march, I have learnd to the quick sort on 20:31. 

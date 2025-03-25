@@ -1,2 +1,3 @@
-﻿  B1010.cpp
+﻿  B1022.cpp
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\pat\B1022.cpp(17,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   pat.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\pat\x64\Debug\pat.exe

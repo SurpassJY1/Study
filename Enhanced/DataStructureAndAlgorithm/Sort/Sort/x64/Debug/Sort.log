@@ -1,2 +1,11 @@
 ﻿  Sort.cpp
-C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\Sort.cpp(16,1): error C4716: “insertionSort”: 必须返回一个值
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\Sort.cpp(32,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\Sort.cpp(43,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\Sort.cpp(207,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\Sort.cpp(208,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\Sort.cpp(212,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\Sort.cpp(221,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\Sort.cpp(225,21): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\Sort.cpp(283,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\Sort.cpp(313,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Sort.vcxproj -> C:\Users\96069\source\repos\SurpassJY1\Study\Enhanced\DataStructureAndAlgorithm\Sort\x64\Debug\Sort.exe

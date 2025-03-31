@@ -204,7 +204,7 @@ void siftDown(vector<int> & nums,int n,int i) {
 }
 void heapSort(vector<int> &nums) {
     //make the array a heap
-    for (int i=nums.size()/2-1;i>=0;i--) {
+    for (int i=(nums.size()-1)/2;i>=0;i--) {
         siftDown(nums, nums.size(),i);
     }
     //get the max element

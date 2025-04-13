@@ -1,58 +1,77 @@
 //
-// Created by GlokieYu on 25-3-30.
+// Created by GlokieYu on 25-4-1.
 //
-/*
-* 给定一个正整数数组 nums 和一个目标正整数 target ，请找出所有可能的组合，使得组合中的元素和等于 target 。
-* 给定数组可能包含重复元素，每个元素只可被选择一次。请以列表形式返回这些组合，列表中不应包含重复组合。
- * */
 #include<iostream>
-#include<vector>
-#include<algorithm>
-#include<unordered_set>
+#include<string>
+#include<cmath>
 using namespace std;
-//思路：用unordered_set来记录插入，过后的相同元素，如果同一位置有相同元素的话剪枝
-//和没有重复元素的一样用更新start来保持顺序一致
-void backtrack(vector<int>&state,vector<int>choices,vector<vector<int>>&res,int tar,int start)
-{
-  if(tar==0)
-  {
-    res.push_back(state);
-    return;
-  }
-  //利用duplicated记录在当前位子插入过的元素
-  unordered_set<int> duplicated;
-  for(int i=start;i<choices.size();i++)
-  {
-    if(tar-choices[i]<0)
-      break;//后面的元素都不用看了
-    if(duplicated.find(choices[i])!=duplicated.end())
-      continue;//找到相同元素已经插入过了就跳过相同元素
-    state.push_back(choices[i]);
-    duplicated.emplace(choices[i]);
-    backtrack(state,choices,res,tar-choices[i],i);
-    state.pop_back();
-  }
-}
-vector<vector<int>> getSubset(vector<int> nums,int tar)
-{
-  vector<int> state;
-  vector<vector<int>> res;
-  sort(nums.begin(),nums.end());
-  backtrack(state,nums,res,tar,0);
-  return res;
-}
+/*
+找第一位确认正负
+因为指数数值不超过9999，所以要用字符串算出系数
+找到E后面的数字算出系数
+找到第二个字符和E之前的那个转成数字主题
+正负号加上数字主题乘以系数
+*/
 int main()
 {
-  vector<vector<int>>res;
-  res=getSubset({4,5,4},9);
-  for(vector<int> solution:res)
-  {
-    cout<<"{";
-  for(int var:solution)
-    {
-    cout<<var<<" ";
+  string input;
+  cin>>input;
+  string res;
+  if (input[0]=='-')
+    res+=input[0];//找到正负号
+  int n=input.find('E')+1;
+  //确认系数是大于一还是小于一
+  if (input[n]=='-') {
+    //确认是小数
+    int zeroCount=0;
+    if (input[n+1]=='0') {
+      zeroCount=input[n+2]-'0';
+    }else {
+      zeroCount=(input[n+1]-'0')*10+input[n+2]-'0';
     }
-    cout<<"}";
+    //若是10的系数小于0，则数字前0的数目为10的系数的相反数
+    res+="0.";
+    for (int i=0;i<zeroCount-1;i++) {//已经补过一个0了
+      res+='0';
+    }
+    //正常添加原本字符串1位置到E之前的，主要要去掉2位置的小数点
+    for (int i=1;i<input.find('E');i++) {
+      if (i==2)
+        continue;//跳过小数点
+      res+=input[i];
+    }
+  }else {
+    //要乘以一个整数
+    //小数点后移法，十的n次方就将小数点后移n位，如果到了末尾删去小数点，补上n减去数字个数个0
+    int count=0;//后移步数
+    if (input[n+1]=='0') {
+      count=input[n+2]-'0';
+    }else {
+      count=(input[n+1]-'0')*10+input[n+2]-'0';
+    }
+    //通过比较数字长度判断是否要补0，注意计算数字长度要去掉小数点的1个
+    int length=input.find('E')-1-1;
+    if (count>=length-1) {
+      //补上0
+      for (int i=1;i<input.find('E');i++) {
+        if (i==2)
+          continue;//跳过小数点
+        res+=input[i];
+      }
+      for (int i=0;i<count-length+1;i++) {
+        res+='0';
+      }
+    }else {
+      //小数点后移
+      //直接添加所有数包括小数点
+      for (int i=1;i<input.find('E');i++) {
+        res+=input[i];
+      }
+      for (int i=0;i<count;i++) {
+        swap(res[res.find('.')],res[res.find('.')+1]);
+      }
+    }
   }
+  cout<<res<<endl;
   return 0;
 }
